@@ -1,4 +1,4 @@
-// Tic Tac Toe by Vedant Tiwari
+// Tic Tac Toe by   Vedant Tiwari
 #include <stdio.h>
 #include <stdbool.h>
 #define COMPUTER 1
